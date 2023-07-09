@@ -1,4 +1,4 @@
-# Top Pizzerias Search on Yellow Pages within San Francisco and Data Analysis**
+# Top Pizzerias Search on Yellow Pages within San Francisco and Data Analysis
 ## Focus: Selenium, BeautifulSoup, MongoDB (data storage & fetching geolocation)
 
 **Background:**
@@ -32,4 +32,6 @@ By implementing an automated solution to search, extract, and analyze data from 
 
 5. Scalability: The automated solution can be easily scaled to include data from other cities, expanding Yellow Pages' directory service and further increasing its value.
 
-By implementing this automated solution, Yellow Pages can position itself as a reliable source for users searching for top pizzerias in San Francisco, offering comprehensive and accurate information while maintaining a competitive edge in the online directory market.
+By implementing this automated solution, Yellow Pages can position itself as a reliable source for users searching for top pizzerias in San Francisco, offering comprehensive and accurate information while maintaining a competitive edge in the online directory market. 
+
+
